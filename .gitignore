@@ -1,0 +1,11 @@
+.DS_Store
+npm-debug.log
+.Spotlight-V100
+.Trashes
+Thumbs.db
+node_modules
+config.json
+*.log
+.pid
+app/bower_components
+public/js

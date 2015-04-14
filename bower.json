@@ -1,0 +1,24 @@
+{
+  "name": "whirl",
+  "version": "0.0.0",
+  "authors": [
+    "Van Nguyen <thegoleffect@gmail.com>"
+  ],
+  "main": "app/index.html",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "zepto": "~1.1.6",
+    "lodash": "~3.6.0"
+  }
+}
