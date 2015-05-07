@@ -13,6 +13,7 @@
   "author": "Van Nguyen <thegoleffect@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "autoprefixer-core": "^5.1.11",
     "i18n-webpack-plugin": "^0.2.7",
     "lodash": "^3.6.0",
     "radium": "^0.10.1",
